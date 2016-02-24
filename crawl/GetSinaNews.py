@@ -16,6 +16,10 @@ sys.setdefaultencoding('gbk')
 
 
 
+
+
+
+
 originalURL="http://money.finance.sina.com.cn/corp/view/vCB_AllNewsStock.php?symbol=sh600418&Page=1"
  
 
